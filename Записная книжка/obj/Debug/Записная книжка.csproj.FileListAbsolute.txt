@@ -1,0 +1,36 @@
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\bin\Debug\Записная книжка.exe.config
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\bin\Debug\Записная книжка.exe
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\bin\Debug\Записная книжка.pdb
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.csproj.AssemblyReference.cache
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.Properties.Resources.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.csproj.GenerateResource.cache
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.csproj.CoreCompileInputs.cache
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.exe
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.pdb
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formMain.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formCalendar.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeMonday.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\bin\Debug\Записная книжка.exe.config
+D:\Курсовики\2023\Записная книжка\Записная книжка\bin\Debug\Записная книжка.exe
+D:\Курсовики\2023\Записная книжка\Записная книжка\bin\Debug\Записная книжка.pdb
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.csproj.AssemblyReference.cache
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formCalendar.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formMain.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeTuesday.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeMonday.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.Properties.Resources.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.csproj.GenerateResource.cache
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.csproj.CoreCompileInputs.cache
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.exe
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная книжка.pdb
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeWednesday.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeThursday.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeFriday.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formContacts.resources
+D:\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formPlanning.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formContacts.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formPlanning.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeFriday.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeThursday.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeWednesday.resources
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\Записная книжка\obj\Debug\Записная_книжка.formTimeTuesday.resources

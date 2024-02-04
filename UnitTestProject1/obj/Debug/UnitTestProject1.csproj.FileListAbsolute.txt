@@ -1,0 +1,70 @@
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Записная книжка.exe
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Записная книжка.pdb
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Записная книжка.exe.config
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\79635\Desktop\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Записная книжка.exe
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Записная книжка.pdb
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Записная книжка.exe.config
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Курсовики\2023\Записная книжка\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
