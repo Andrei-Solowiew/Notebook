@@ -23,11 +23,6 @@ namespace Записная_книжка
             textTasks.Text = File.ReadAllText(fileName);
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void buttonAdd_Click(object sender, EventArgs e)
         {
             string time = inputTime.Text;
@@ -36,11 +31,6 @@ namespace Записная_книжка
             sw.WriteLine($"{time} {task}");
             sw.Close();
             textTasks.Text = File.ReadAllText(fileName);
-        }
-
-        private void formTimeTuesday_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void buttonClean_Click(object sender, EventArgs e)

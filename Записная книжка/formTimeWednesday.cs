@@ -23,11 +23,6 @@ namespace Записная_книжка
             textTasks.Text = File.ReadAllText(fileName);
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void buttonAdd_Click(object sender, EventArgs e)
         {
             string time = inputTime.Text;

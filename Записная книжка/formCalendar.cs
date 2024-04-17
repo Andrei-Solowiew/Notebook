@@ -22,8 +22,8 @@ namespace Записная_книжка
         {
             DateTime currentDate = DateTime.Now;
             DayOfWeek today = currentDate.DayOfWeek;
-            int currentNum = Convert.ToInt32(today);
-            DateTime start = currentDate.AddDays(-1 * (currentNum -1));
+            int currentNumWeekDay = Convert.ToInt32(today);
+            DateTime start = currentDate.AddDays(-1 * (currentNumWeekDay - 1));
             buttonMonday.Text = start.ToString("dd.MM");
             buttonTuesday.Text = start.AddDays(1).ToString("dd.MM");
             buttonWednesday.Text = start.AddDays(2).ToString("dd.MM");

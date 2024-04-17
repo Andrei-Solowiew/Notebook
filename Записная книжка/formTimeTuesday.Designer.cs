@@ -48,7 +48,6 @@
             this.label1.Size = new System.Drawing.Size(316, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "Временной промежуток";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -139,7 +138,6 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "formTimeTuesday";
             this.Text = "formTimeTuesday";
-            this.Load += new System.EventHandler(this.formTimeTuesday_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

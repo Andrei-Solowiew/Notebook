@@ -17,14 +17,6 @@ namespace Записная_книжка
             InitializeComponent();
         }
         
-        // В form load код запускается после того как форма была создана, но до того как она
-        // была показана на экран
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-            
-        }
-        
         private void button2_Click(object sender, EventArgs e)
         {
             formContacts form_contacts = new formContacts();

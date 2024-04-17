@@ -88,7 +88,6 @@ namespace Записная_книжка
             this.inputName.Name = "inputName";
             this.inputName.Size = new System.Drawing.Size(209, 31);
             this.inputName.TabIndex = 9;
-            this.inputName.TextChanged += new System.EventHandler(this.inputTime_TextChanged);
             // 
             // label1
             // 

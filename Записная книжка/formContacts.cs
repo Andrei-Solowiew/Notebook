@@ -37,10 +37,6 @@ namespace Записная_книжка
             string contact = inputContact.Text;
             return $"{name}\n{contact}";
         }
-        private void inputTime_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         public void buttonAdd_Click(object sender, EventArgs e)
         {

@@ -29,10 +29,6 @@ namespace Записная_книжка
         {
             return inputInfo.Text;
         }
-        private void formPlanning_Load(object sender, EventArgs e)
-        {
-
-        }
 
         public void btnAdd_Click(object sender, EventArgs e)
         {

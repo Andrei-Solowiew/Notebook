@@ -109,7 +109,6 @@ namespace Записная_книжка
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "formPlanning";
             this.Text = "formPlanning";
-            this.Load += new System.EventHandler(this.formPlanning_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
